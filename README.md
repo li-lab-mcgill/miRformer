@@ -2,6 +2,10 @@
 
 This repository contains the code for `MiRformer`, a deep learning model for predicting miRNA-mRNA interactions using dual-transformer encoder architecture.
 
+# Datasets
+
+All training, validation and test datasets can be found at [https://doi.org/10.5281/zenodo.19343333]
+
 ## Command-line Usage
 
 The main entry point for training and evaluation is `scripts/DTEA_model.py`.
